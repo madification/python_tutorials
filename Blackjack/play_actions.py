@@ -5,3 +5,4 @@ class actions(Enum):
     STAY = 2
     WIN = 3
     BUST = 4
+    WAITING_FOR_GAME = 5

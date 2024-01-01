@@ -1,0 +1,7 @@
+https://docs.python.org/3.12/tutorial/controlflow.html#match-statements
+https://learn.microsoft.com/en-us/windows/python/beginners
+https://stonesoup.readthedocs.io/en/v1.1/auto_tutorials/01_KalmanFilterTutorial.html#sphx-glr-auto-tutorials-01-kalmanfiltertutorial-py
+https://www.geeksforgeeks.org/python-data-structures-and-algorithms/
+https://www.geeksforgeeks.org/python-oops-concepts/
+https://docs.python.org/3/library/unittest.html
+https://learn.microsoft.com/en-us/visualstudio/python/debugging-python-in-visual-studio?view=vs-2022

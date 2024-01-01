@@ -1,4 +1,5 @@
 import random
+import card
 
 class Deck:
     cardOptions = list(range(2, 11))+(["Jack", "Queen", "King", "Ace"])
@@ -6,7 +7,8 @@ class Deck:
 
     def __init__(self) -> None:
         for i in range(4):
-            self.cards = self.cards + self.cardOptions
+            for option in self.cardOptions:
+                self.cards.append(card.Card(option))
     
 
     def shuffle(self, numTimes):
